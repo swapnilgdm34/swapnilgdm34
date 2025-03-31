@@ -2,7 +2,7 @@
 👋 Hi, I’m Swapnil!<br>🔧 I’m passionate about DevOps and constantly learning to expand my skill set.<br>🌱 Currently diving deep into AWS, Linux, Docker, Kubernetes, Ansible, Jenkins, and Git.<br>🤝 Looking to collaborate on exciting DevOps projects.<br>🚀 Open to new opportunities in the DevOps field!<br>📫 Feel free to reach me at: swapnildevops07@gmail.com<br><br>
 
 
-## 🌐 Socials:
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swapnil-gedam-3a282724/)
 
